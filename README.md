@@ -1,5 +1,5 @@
-# OrnithLLM
-OrnithLLM: Multilevel Visual–Semantic Interaction for Fine–Grained Bird Classification via Large Language Model
+# HomLLM
+HomLLM: Exploiting Semantic Homology Relationship for Fine-Grained Bird Image Classification via Large Language Models
 
 ## 📑 Abstract
 
